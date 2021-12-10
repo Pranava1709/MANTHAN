@@ -1,0 +1,14 @@
+{% extends "index.html" %}
+
+
+{% load static %}
+{% block head %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/download.css' %}">
+{% endblock %}
+{% block content %}
+<div class="content">
+
+  <a href="{% static 'output_video_result.zip' %}" download>Download</a>
+
+</div>
+{% endblock %}

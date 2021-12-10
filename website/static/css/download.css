@@ -1,0 +1,19 @@
+.content a{
+  position: absolute;
+  text-decoration:  none;
+  font: normal 15px Arial,Helvetica,sans-serif;
+  /* text-shadow: 2px 2px black; */
+  background-color: black;
+  color:DarkOrange;
+  border: 2px DarkOrange solid;
+  border-radius: 10px;
+  padding: 8px 15px 8px 15px;
+  margin-left: 150px;
+  margin-top: 50px;
+
+}
+
+.content a:hover{
+  color: Blue;
+  border-color: Blue;
+}

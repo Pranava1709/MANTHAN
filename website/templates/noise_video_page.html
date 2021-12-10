@@ -1,0 +1,43 @@
+{% extends "index.html" %}
+{% load static %}
+{% block head %}
+<link rel="stylesheet" type="text/css" href="{% static '../static/css/style2.css' %}">
+{% endblock %}
+{% block content %}
+
+
+<div class="content">
+  <form class='uploadvid' method="post" enctype="multipart/form-data">
+  {% csrf_token %}
+  <input type="file" multiple id="myFile" name="denoise_video" accept="video/*"/> <br /><br />
+
+  <button type="submit" value="submit">Submit</button>
+
+  </form>
+
+
+<!-- <br>
+
+
+  <form class='uploadvid' method="post" enctype="multipart/form-data">
+  {% csrf_token %}
+  <input type="file" multiple id="myvideoFile" name="dehaze_vid" accept="video/*"/> <br /><br />
+
+  <button type="submit" value="submit">Submit</button>
+
+  </form> -->
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+{% endblock %}

@@ -1,0 +1,29 @@
+{% extends "index.html" %}
+{% load static %}
+{% block head %}
+<link rel="stylesheet" type="text/css" href="{% static '../static/css/style1.css' %}">
+{% endblock %}
+{% block content %}
+
+
+
+
+
+<div class="content">
+  <form class='uploadimg' method="post" enctype="multipart/form-data">
+  {% csrf_token %}
+  <input class="uploadbtn" type="file" multiple id="myFile" name="denoise" accept="image/*"/> <br /><br />
+
+  <button class="uploadbtn" type="submit" value="submit">Submit</button>
+
+
+  </form>
+
+
+
+</div>
+
+
+
+
+{% endblock %}
