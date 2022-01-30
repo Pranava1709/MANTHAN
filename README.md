@@ -26,7 +26,18 @@ HTML
 
 CSS
 
-![image](https://user-images.githubusercontent.com/60814171/151693477-9f257c95-e732-4c2c-8211-6458d168e49b.png)
+![image](https://user-images.githubusercontent.com/60814171/151693498-a4a46011-37f1-414b-9991-2321420ed8f2.png)
+![image](https://user-images.githubusercontent.com/60814171/151693504-23267225-d7f2-4fe2-83ac-a0ff38f06a28.png)
+![image](https://user-images.githubusercontent.com/60814171/151693516-684f112d-a50c-4a92-bb2d-b6220998121d.png)
+![image](https://user-images.githubusercontent.com/60814171/151693813-5d74a39b-1c0d-42ee-90ce-6a03d22e2056.png)
+![image](https://user-images.githubusercontent.com/60814171/151693821-1574f29f-3bdd-4fbb-b07b-7c79c92737e6.png)
+![image](https://user-images.githubusercontent.com/60814171/151693828-b8396b08-1d60-4be9-bd07-8216021aea33.png)
+
+# TEAM
+Pranava Seth(Team-Lead)
+Gaurav Bansal
+Eshaan Raj Sharma
+
 
 
 
