@@ -26,6 +26,7 @@ HTML
 
 CSS
 
+![image](https://user-images.githubusercontent.com/60814171/151693477-9f257c95-e732-4c2c-8211-6458d168e49b.png)
 
 
 
